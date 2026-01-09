@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "燐光",
+  "base_artist": "Daoko",
+  "createdAt": "2026-01-09T00:44:05.715381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "燐光",
+      "artist": "中河健 & 阿知波大輔 & 土屋暁",
+      "has_synced": false,
+      "path": "select/01_燐光_中河健_&_阿知波大輔_&_土屋暁.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "燐光",
+      "artist": "綾野ましろ",
+      "has_synced": false,
+      "path": "select/02_燐光_綾野ましろ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "燐光",
+      "artist": "綾野　ましろ",
+      "has_synced": false,
+      "path": "select/03_燐光_綾野_ましろ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "燐光",
+      "artist": "Ayano, Mashiro",
+      "has_synced": false,
+      "path": "select/04_燐光_Ayano,_Mashiro.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "燐光",
+      "artist": "Mashiro Ayano",
+      "has_synced": false,
+      "path": "select/05_燐光_Mashiro_Ayano.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "燐光",
+      "artist": "Daoko",
+      "has_synced": false,
+      "path": "select/pl_01_燐光_Daoko.txt"
+    }
+  ]
+}
